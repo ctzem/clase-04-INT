@@ -10,4 +10,4 @@
   
 ---
 
-Adjunto link [[INDICADORES]()]
+Adjunto link [[INDICADORES](https://super-bunny-dadfbf.netlify.app/)]
